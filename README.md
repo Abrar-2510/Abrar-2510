@@ -11,11 +11,11 @@
 
 - 🌱 I’m currently learning **machine learning**
 
-- 👨‍💻 All of my projects are available at [abrarbero2510@gmail.com](abrarbero2510@gmail.com)
+- 👨‍💻 All of my projects are available at [abrarbero2510@gmail.com](https://github.com/Abrar-2510)
 
 - 📫 How to reach me **abrarbero2510@gmail.com**
 
-- 📄 Know about my experiences [abrarbero2510@gmail.com]([abrarbero2510@gmail.com](https://drive.google.com/file/d/1bKVhDXR6hOfoJNN3fNnXjOErVxzZrrx1/view?usp=sharing))
+- 📄 Know about my experiences [abrarbero2510@gmail.com]((https://drive.google.com/file/d/1bKVhDXR6hOfoJNN3fNnXjOErVxzZrrx1/view?usp=sharing))
 
 - ⚡ Fun fact **I don't like drinking coffee but I prefer eating its powder**
 - 
