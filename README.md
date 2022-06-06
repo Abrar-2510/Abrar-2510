@@ -7,18 +7,16 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=bero" alt="bero" /></a> </p>
 
-<p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
-
 - 🌱 I’m currently learning **machine learning**
 
-- 👨‍💻 All of my projects are available at [abrarbero2510@gmail.com](https://github.com/Abrar-2510)
+- 👨‍💻 All of my projects are available at [portfolio link](portfolio link)
 
 - 📫 How to reach me **abrarbero2510@gmail.com**
 
-- 📄 Know about my experiences [abrarbero2510@gmail.com]((https://drive.google.com/file/d/1bKVhDXR6hOfoJNN3fNnXjOErVxzZrrx1/view?usp=sharing))
+- 📄 Know about my experiences [https://drive.google.com/file/d/1bKVhDXR6hOfoJNN3fNnXjOErVxzZrrx1/view?usp=sharing](https://drive.google.com/file/d/1bKVhDXR6hOfoJNN3fNnXjOErVxzZrrx1/view?usp=sharing)
 
-- ⚡ Fun fact **I don't like drinking coffee but I prefer eating its powder**
-- 
+- ⚡ Fun fact **I don't like drinking coffee but I prefer eat its powder**
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/abrar-mohammed" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="abrar-mohammed" height="30" width="40" /></a>
