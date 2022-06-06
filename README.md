@@ -8,11 +8,9 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=bero" alt="bero" /></a> </p>
 
-- 🌱 I’m currently learning **machine learning**
 
 - 👨‍💻 All of my projects are available at [https://drive.google.com/file/d/1bKVhDXR6hOfoJNN3fNnXjOErVxzZrrx1/view?usp=sharing](https://drive.google.com/file/d/1bKVhDXR6hOfoJNN3fNnXjOErVxzZrrx1/view?usp=sharing)
 
-- 📫 How to reach me **abrarbero2510@gmail.com**
 
 - 📄 Know about my experiences [https://drive.google.com/file/d/1bKVhDXR6hOfoJNN3fNnXjOErVxzZrrx1/view?usp=sharing](https://drive.google.com/file/d/1bKVhDXR6hOfoJNN3fNnXjOErVxzZrrx1/view?usp=sharing)
 
@@ -30,3 +28,44 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=bero&show_icons=true&locale=en&layout=compact" alt="bero" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=bero&show_icons=true&locale=en" alt="bero" /></p>
+
+
+<table>
+<thead>
+<tr>
+<th colspan="4"> Languages :yum:</th>
+</tr>
+<tr>
+<th>Name</th>
+<th>Name</th>
+<th>Name</th>
+<th>Name</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Cell</td>
+<td>Cell</td>
+<td>Cell</td>
+<td>Cell</td>
+</tr>
+<tr>
+<td>Cell</td>
+<td>Cell</td>
+<td>Cell</td>
+<td>Cell</td>
+</tr>
+<tr>
+<td>Cell</td>
+<td>Cell</td>
+<td>Cell</td>
+<td>Cell</td>
+</tr>
+<tr>
+<td>Cell</td>
+<td>Cell</td>
+<td>Cell</td>
+<td>Cell</td>
+</tr>
+</tbody>
+</table>
