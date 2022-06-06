@@ -64,8 +64,9 @@
 
 </tbody>
 </table >
-
-<p><img width="350px"; align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=abrar-2510&show_icons=true&theme=radical&layout=compact" alt="abrar-2510"/><img  width="420px"; align="center" src="https://github-readme-stats.vercel.app/api?username=abrar-2510&show_icons=true&theme=radical" alt="abrar-2510" /></p>
+-------
+### skills :star_struck:
+<p><img width="350px"; align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=abrar-2510&show_icons=true&theme=radical&layout=compact" alt="abrar-2510"/>     <img  width="420px"; align="center" src="https://github-readme-stats.vercel.app/api?username=abrar-2510&show_icons=true&theme=radical" alt="abrar-2510" /></p>
 
 
 ### Education && certificates :books:
