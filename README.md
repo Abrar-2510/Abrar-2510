@@ -1,6 +1,7 @@
 <p align="center">
   <img  src="https://github.com/Abrar-2510/Abrar_profile/blob/main/ice_video_20211111-235146.gif">
-<h1 align="center">Hi 👋, I'm Abrar Mohammed</h1>
+
+  <h1 align="center">Hi 👋, I'm Abrar Mohammed</h1>
 <h3 align="center">A passionate frontend developer from Egypt</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=bero&label=Profile%20views&color=0e75b6&style=flat" alt="bero" /> </p>
@@ -9,13 +10,13 @@
 
 - 🌱 I’m currently learning **machine learning**
 
-- 👨‍💻 All of my projects are available at [portfolio link](portfolio link)
+- 👨‍💻 All of my projects are available at [https://drive.google.com/file/d/1bKVhDXR6hOfoJNN3fNnXjOErVxzZrrx1/view?usp=sharing](https://drive.google.com/file/d/1bKVhDXR6hOfoJNN3fNnXjOErVxzZrrx1/view?usp=sharing)
 
 - 📫 How to reach me **abrarbero2510@gmail.com**
 
 - 📄 Know about my experiences [https://drive.google.com/file/d/1bKVhDXR6hOfoJNN3fNnXjOErVxzZrrx1/view?usp=sharing](https://drive.google.com/file/d/1bKVhDXR6hOfoJNN3fNnXjOErVxzZrrx1/view?usp=sharing)
 
-- ⚡ Fun fact **I don't like drinking coffee but I prefer eat its powder**
+- ⚡ Fun fact **I don't like drinking coffee but I prefer eating its powder**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
