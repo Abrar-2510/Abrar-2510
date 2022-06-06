@@ -1,10 +1,4 @@
-<section  class="wavy" >
-<svg viewBox="0 0 500 200">
-  <path d="M0, 100 C150, 200 350, 0 500, 100 L500, 00 L0, 0 Z" >
-  </path>
-</svg>
-</section>
-​
+
 <p align="center">
     <img  src="https://github.com/Abrar-2510/Abrar_profile/blob/main/ice_video_20211111-235146.gif">
 </p>
@@ -66,70 +60,19 @@
  </a> </td>
 <td> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> </td>
 
-<td><a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a></td></tr>
+<td><a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40" / > </a></td></tr>
 
 </tbody>
-</table>
+</table >
 
-<p><img style="background-color:black; width="350px"; align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=abrar-2510&show_icons=true&locale=en&layout=compact" alt="abrar-2510"/></p>
-
-<p>&nbsp;<img width="350px"; align="center" src="https://github-readme-stats.vercel.app/api?username=abrar-2510&show_icons=true&locale=en" alt="abrar-2510" /></p>
+<p><img width="350px"; align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=abrar-2510&show_icons=true&theme=radical&layout=compact" alt="abrar-2510"/><img  width="420px"; align="center" src="https://github-readme-stats.vercel.app/api?username=abrar-2510&show_icons=true&theme=radical" alt="abrar-2510" /></p>
 
 
+### Education && certificates :books:
+---
+[![image](https://img.shields.io/badge/freecodecamp-27273D?style=for-the-badge&logo=freecodecamp&logoColor=white)](https://img.shields.io/badge/Datacamp-05192D?style=for-the-badge&logo=datacamp&logoColor=65FF8F) [![image](https://img.shields.io/badge/Datacamp-05192D?style=for-the-badge&logo=datacamp&logoColor=65FF8F) ](https://img.shields.io/badge/Datacamp-05192D?style=for-the-badge&logo=datacamp&logoColor=65FF8F)[![image](	https://img.shields.io/badge/Udemy-EC5252?style=for-the-badge&logo=Udemy&logoColor=white)](https://img.shields.io/badge/Datacamp-05192D?style=for-the-badge&logo=datacamp&logoColor=65FF8F)  [![image](https://img.shields.io/badge/Udacity-grey?style=for-the-badge&logo=udacity&logoColor=#5FCFEE)](https://img.shields.io/badge/Datacamp-05192D?style=for-the-badge&logo=datacamp&logoColor=65FF8F) 
 
+### Be my friend :sunglasses:
+---
+[![image](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://img.shields.io/badge/Datacamp-05192D?style=for-the-badge&logo=datacamp&logoColor=65FF8F) [![image](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://img.shields.io/badge/Datacamp-05192D?style=for-the-badge&logo=datacamp&logoColor=65FF8F) [![image](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://img.shields.io/badge/Datacamp-05192D?style=for-the-badge&logo=datacamp&logoColor=65FF8F) [![image](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://img.shields.io/badge/Datacamp-05192D?style=for-the-badge&logo=datacamp&logoColor=65FF8F)
 
-  <div id="social-platforms"> 
-<a class="btn btn-icon btn-facebook" href="https://web.facebook.com/profile.php?id=100052241449512"><i class="fa fa-facebook"></i><span>Facebook</span></a>
-<a class="btn btn-icon btn-twitter" href="#"><i class="fa fa-twitter"></i><span>Twitter</span></a>
-<a class="btn btn-icon btn-googleplus" href="#"><i class="fa fa-google-plus"></i><span>Google+</span></a>
-<a class="btn btn-icon btn-pinterest" href="#"><i class="fa fa-pinterest"></i><span>Pinterest</span></a>
-<a class="btn btn-icon btn-linkedin" href="https://www.linkedin.com/in/abrar-mohammed-37b497206/?locale=en_US"><i class="fa fa-linkedin"></i><span>LinkedIn</span></a>
-</div>
-    
-    
-    <svg fill="none" viewBox="0 0 300 120" width="300" height="120" xmlns="http://www.w3.org/2000/svg">
-  <foreignObject width="100%" height="100%">
-    <div xmlns="http://www.w3.org/1999/xhtml">
-
-      <style>
-        .tags {
-          display: flex;
-          flex-wrap: wrap;
-          height: 100%;
-          width: 100%;
-        }
-        .tag {
-          background-color: #E3FFFF;
-          border-radius: 0.25em;
-          color: #0ca4a5;
-          border: 1px solid #0ca4a5;
-          display: inline-block;
-          font-size: 0.75em;
-          line-height: 2em;
-          margin: 0.125em;
-          padding: 0 0.5em;
-          text-decoration: none;
-          font-family: sans-serif;
-        }
-      </style>
-
-      <div class="tags">
-        <div class="tag">Angular</div>
-        <div class="tag">Vue(X)</div>
-        <div class="tag">JavaScript</div>
-        <div class="tag">TypeScript</div>
-      </div>
-      <div class="tags">
-        <div class="tag">(S)CSS</div>
-        <div class="tag">Building UIs</div>
-        <div class="tag">Web Components</div>
-      </div>
-      <div class="tags">
-        <div class="tag">Ionic</div>
-        <div class="tag">Electron</div>
-        <div class="tag">.NET</div>
-      </div>
-
-    </div>
-  </foreignObject>
-</svg>
