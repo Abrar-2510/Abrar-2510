@@ -1,4 +1,10 @@
-
+<section  class="wavy" >
+<svg viewBox="0 0 500 200">
+  <path d="M0, 100 C150, 200 350, 0 500, 100 L500, 00 L0, 0 Z" >
+  </path>
+</svg>
+</section>
+​
 <p align="center">
     <img  src="https://github.com/Abrar-2510/Abrar_profile/blob/main/ice_video_20211111-235146.gif">
 </p>
