@@ -9,15 +9,15 @@
 
 **Welcome to my magic community!** :hugs:
 
-- *My Mission* :lying_face:
+- *My Mission* :lying_face: <br>
 Apply all I've learnt to real-life projects that will make our lives easier.
 
-- 👨‍💻 All of my projects are available at [https://drive.google.com/file/d/1bKVhDXR6hOfoJNN3fNnXjOErVxzZrrx1/view?usp=sharing](https://drive.google.com/file/d/1bKVhDXR6hOfoJNN3fNnXjOErVxzZrrx1/view?usp=sharing)
+- 👨‍💻 All of my projects are available at <br> [https://drive.google.com/file/d/1bKVhDXR6hOfoJNN3fNnXjOErVxzZrrx1/view?usp=sharing](https://drive.google.com/file/d/1bKVhDXR6hOfoJNN3fNnXjOErVxzZrrx1/view?usp=sharing)
 
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1bKVhDXR6hOfoJNN3fNnXjOErVxzZrrx1/view?usp=sharing](https://drive.google.com/file/d/1bKVhDXR6hOfoJNN3fNnXjOErVxzZrrx1/view?usp=sharing)
+- 📄 Know about my experiences <br>[https://drive.google.com/file/d/1bKVhDXR6hOfoJNN3fNnXjOErVxzZrrx1/view?usp=sharing](https://drive.google.com/file/d/1bKVhDXR6hOfoJNN3fNnXjOErVxzZrrx1/view?usp=sharing)
 
-- ⚡ Fun fact **I don't like drinking coffee but I prefer eating its powder**
+- ⚡ Fun fact <br> **I don't like drinking coffee but I prefer eating its powder**
 
 ### skills :star_struck:
 -------
