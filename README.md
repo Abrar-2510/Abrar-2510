@@ -7,7 +7,10 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=abrar-2510&label=Profile%20views&color=0e75b6&style=flat" alt="abrar-2510" /> </p>
 
+**Welcome to my magic community!** :hugs:
 
+- *My Mission* :lying_face:
+Apply all I've learnt to real-life projects that will make our lives easier.
 
 - 👨‍💻 All of my projects are available at [https://drive.google.com/file/d/1bKVhDXR6hOfoJNN3fNnXjOErVxzZrrx1/view?usp=sharing](https://drive.google.com/file/d/1bKVhDXR6hOfoJNN3fNnXjOErVxzZrrx1/view?usp=sharing)
 
@@ -15,6 +18,10 @@
 - 📄 Know about my experiences [https://drive.google.com/file/d/1bKVhDXR6hOfoJNN3fNnXjOErVxzZrrx1/view?usp=sharing](https://drive.google.com/file/d/1bKVhDXR6hOfoJNN3fNnXjOErVxzZrrx1/view?usp=sharing)
 
 - ⚡ Fun fact **I don't like drinking coffee but I prefer eating its powder**
+
+### skills :star_struck:
+-------
+<p><img width="350px"; align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=abrar-2510&show_icons=true&theme=radical&layout=compact" alt="abrar-2510"/>     <img  width="420px"; align="center" src="https://github-readme-stats.vercel.app/api?username=abrar-2510&show_icons=true&theme=radical" alt="abrar-2510" /></p>
 
 
 
@@ -64,10 +71,6 @@
 
 </tbody>
 </table >
-
-### skills :star_struck:
--------
-<p><img width="350px"; align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=abrar-2510&show_icons=true&theme=radical&layout=compact" alt="abrar-2510"/>     <img  width="420px"; align="center" src="https://github-readme-stats.vercel.app/api?username=abrar-2510&show_icons=true&theme=radical" alt="abrar-2510" /></p>
 
 
 ### Education && certificates :books:
