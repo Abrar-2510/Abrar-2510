@@ -6,7 +6,7 @@
 
 
 ## Welcome to my magic community! :hugs:
----------
+---
 
 - *My Mission* :lying_face: <br>
 Apply all I've learnt to real-life projects that will make our lives easier.
