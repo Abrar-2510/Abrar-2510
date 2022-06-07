@@ -5,9 +5,8 @@
 
 
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=abrar-2510&label=Profile%20views&color=0e75b6&style=flat" alt="abrar-2510" /> </p>
-
-### Welcome to my magic community! :hugs:
+## Welcome to my magic community! :hugs:
+---------
 
 - *My Mission* :lying_face: <br>
 Apply all I've learnt to real-life projects that will make our lives easier.
