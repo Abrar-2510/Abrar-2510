@@ -7,17 +7,17 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=abrar-2510&label=Profile%20views&color=0e75b6&style=flat" alt="abrar-2510" /> </p>
 
-**Welcome to my magic community!** :hugs:
+### Welcome to my magic community! :hugs:
 
 - *My Mission* :lying_face: <br>
 Apply all I've learnt to real-life projects that will make our lives easier.
 
-- 👨‍💻 All of my projects are available at <br> [https://drive.google.com/file/d/1bKVhDXR6hOfoJNN3fNnXjOErVxzZrrx1/view?usp=sharing](https://drive.google.com/file/d/1bKVhDXR6hOfoJNN3fNnXjOErVxzZrrx1/view?usp=sharing)
+- 👨‍💻 *All of my projects are available at* <br> [https://drive.google.com/file/d/1bKVhDXR6hOfoJNN3fNnXjOErVxzZrrx1/view?usp=sharing](https://drive.google.com/file/d/1bKVhDXR6hOfoJNN3fNnXjOErVxzZrrx1/view?usp=sharing)
 
 
-- 📄 Know about my experiences <br>[https://drive.google.com/file/d/1bKVhDXR6hOfoJNN3fNnXjOErVxzZrrx1/view?usp=sharing](https://drive.google.com/file/d/1bKVhDXR6hOfoJNN3fNnXjOErVxzZrrx1/view?usp=sharing)
+- 📄 *Know about my experiences* <br>[https://drive.google.com/file/d/1bKVhDXR6hOfoJNN3fNnXjOErVxzZrrx1/view?usp=sharing](https://drive.google.com/file/d/1bKVhDXR6hOfoJNN3fNnXjOErVxzZrrx1/view?usp=sharing)
 
-- ⚡ Fun fact <br> **I don't like drinking coffee but I prefer eating its powder**
+- ⚡ *Fun fact* <br> **I don't like drinking coffee but I prefer eating its powder**
 
 ### skills :star_struck:
 -------
