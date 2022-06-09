@@ -1,3 +1,4 @@
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Joan&size=30&color=C43671&background=C9C9C90F&lines=I+am+STEMER+%3A);programmer++%F0%9F%91%A8%E2%80%8D%F0%9F%92%BB;3D+Designer;UI+%26+UX+designer)](https://git.io/typing-svg)
 
 <p align="center">
     <img  src="https://github.com/Abrar-2510/Abrar_profile/blob/main/ice_video_20211111-235146.gif">
