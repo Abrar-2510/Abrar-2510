@@ -1,4 +1,4 @@
-
+![header](https://capsule-render.vercel.app/api?type=wave&color=gradient&height=280&section=header&text=Hi%20there%20👋&fontSize=90)
 <p align="center">
     <img  src="https://github.com/Abrar-2510/Abrar_profile/blob/main/ice_video_20211111-235146.gif">
 </p>
