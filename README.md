@@ -11,7 +11,7 @@
 - *My Mission* :lying_face: <br>
 Apply all I've learnt to real-life projects that will make our lives easier.
 
-- 👨‍💻 *All of my projects are available at* <br> [https://abrar-2510.github.io/Abrar-portfolio/](https://abrar-2510.github.io/Abrar-portfolio/)
+- 👨‍💻 *All of my projects are available at* <br> [https://abrar-2510.github.io/updated-my-portfolio/](https://abrar-2510.github.io/updated-my-portfolio/)
 
 
 - 📄 *Know about my experiences* <br>[https://drive.google.com/file/d/1GjNsSScBUPijzQUVFBV-r8-4XJk5Mvv8/view?usp=sharing](https://drive.google.com/file/d/1GjNsSScBUPijzQUVFBV-r8-4XJk5Mvv8/view?usp=sharing)
